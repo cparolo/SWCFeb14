@@ -6,8 +6,12 @@ ciao
 
 second modification
 
+HEAD
 terza modifica
 
-cazzo
+bye bye
 
 giusto
+
+terza modifica
+parent of cfb292e... errore
